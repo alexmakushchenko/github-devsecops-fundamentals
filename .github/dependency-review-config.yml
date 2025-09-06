@@ -1,4 +1,4 @@
-fail-on-severity: moderate
+fail-on-severity: low
 
 comment-summary-in-pr: always
 
